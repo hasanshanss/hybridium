@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\source\\repos\\hybridium\\DbUpdater\\DbUpdater.csproj": {}
+    "C:\\Users\\User\\source\\repos\\Hybridium\\DbUpdater\\DbUpdater.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\source\\repos\\hybridium\\DbUpdater\\DbUpdater.csproj": {
+    "C:\\Users\\User\\source\\repos\\Hybridium\\DbUpdater\\DbUpdater.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\source\\repos\\hybridium\\DbUpdater\\DbUpdater.csproj",
+        "projectUniqueName": "C:\\Users\\User\\source\\repos\\Hybridium\\DbUpdater\\DbUpdater.csproj",
         "projectName": "DbUpdater",
-        "projectPath": "C:\\Users\\User\\source\\repos\\hybridium\\DbUpdater\\DbUpdater.csproj",
+        "projectPath": "C:\\Users\\User\\source\\repos\\Hybridium\\DbUpdater\\DbUpdater.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\source\\repos\\hybridium\\DbUpdater\\obj\\",
+        "outputPath": "C:\\Users\\User\\source\\repos\\Hybridium\\DbUpdater\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

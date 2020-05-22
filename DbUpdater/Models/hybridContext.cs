@@ -26,7 +26,7 @@ namespace DbUpdater.Models
             if (!optionsBuilder.IsConfigured)
             {
 
-                optionsBuilder.UseNpgsql("Host=localhost;Database=hybrid;Username=postgres;Password=p159753l");
+                optionsBuilder.UseNpgsql("Host=localhost;Database=hybrid;Username=postgres;Password=1234567890");
             }
         }
 

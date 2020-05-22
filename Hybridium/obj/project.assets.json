@@ -2026,11 +2026,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\hybridium\\Hybridium\\Hybridium.csproj",
+      "projectUniqueName": "C:\\Users\\User\\source\\repos\\Hybridium\\Hybridium\\Hybridium.csproj",
       "projectName": "Hybridium",
-      "projectPath": "C:\\Users\\User\\source\\repos\\hybridium\\Hybridium\\Hybridium.csproj",
+      "projectPath": "C:\\Users\\User\\source\\repos\\Hybridium\\Hybridium\\Hybridium.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\source\\repos\\hybridium\\Hybridium\\obj\\",
+      "outputPath": "C:\\Users\\User\\source\\repos\\Hybridium\\Hybridium\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
